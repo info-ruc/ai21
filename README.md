@@ -9,3 +9,5 @@
 | [Source Code](https://info-ruc.github.io/ai21/reason.pl)
 
 #3 Searching-I [slide](https://info-ruc.github.io/ai21/search-I.pdf) 
+
+#4 Searching-II [slide](https://info-ruc.github.io/ai21/search-II.pdf) 
