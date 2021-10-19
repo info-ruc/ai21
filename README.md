@@ -11,3 +11,11 @@
 #3 Searching-I [slide](https://info-ruc.github.io/ai21/search-I.pdf) 
 
 #4 Searching-II [slide](https://info-ruc.github.io/ai21/search-II.pdf) 
+
+#4 Searching-II [slide](https://info-ruc.github.io/ai21/search-II.pdf) 
+
+#4 Searching-II [slide](https://info-ruc.github.io/ai21/search-II.pdf) 
+
+#5 Machine Learning Intro [slide](https://info-ruc.github.io/ai21/mlintro.pdf) 
+
+#6 Classification [slide](https://info-ruc.github.io/ai21/classification.pdf) 
