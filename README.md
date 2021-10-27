@@ -19,3 +19,5 @@
 #5 Machine Learning Intro [slide](https://info-ruc.github.io/ai21/mlintro.pdf) 
 
 #6 Classification [slide](https://info-ruc.github.io/ai21/classification.pdf) 
+
+#7 Linear Models [slide](https://info-ruc.github.io/ai21/lines.pdf) 
