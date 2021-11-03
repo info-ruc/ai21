@@ -21,3 +21,5 @@
 #6 Classification [slide](https://info-ruc.github.io/ai21/classification.pdf) 
 
 #7 Linear Models [slide](https://info-ruc.github.io/ai21/lines.pdf) 
+
+#8 Trees [slide](https://info-ruc.github.io/ai21/trees21.pdf) 
