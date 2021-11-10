@@ -25,4 +25,5 @@
 #8 Trees [slide](https://info-ruc.github.io/ai21/trees21.pdf) 
 
 #9 CNN [slide](https://info-ruc.github.io/ai21/cnn.pdf) 
+| [matlab](https://info-ruc.github.io/ai21/matlab-dl.pdf)
 	
