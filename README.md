@@ -26,4 +26,5 @@
 
 #9 CNN [slide](https://info-ruc.github.io/ai21/cnn.pdf) 
 | [matlab](https://info-ruc.github.io/ai21/matlab-dl.pdf)
-	
+
+#10 RNN [slide](https://info-ruc.github.io/ai21/rnn.pdf) 
