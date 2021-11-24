@@ -28,6 +28,8 @@
 | [matlab](https://info-ruc.github.io/ai21/matlab-dl.pdf)
 
 #10 RNN [slide](https://info-ruc.github.io/ai21/rnn.pdf) 
+| [matlab](https://ww2.mathworks.cn/help/deeplearning/ug/long-short-term-memory-networks.html)
 
 #11 AutoEncoder [slide](https://info-ruc.github.io/ai21/ae.pdf) 
+| [matlab](https://ww2.mathworks.cn/help/deeplearning/ug/generate-text-using-autoencoders.html)
 
