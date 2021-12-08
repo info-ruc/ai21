@@ -33,3 +33,5 @@
 #11 AutoEncoder [slide](https://info-ruc.github.io/ai21/ae.pdf) 
 | [matlab](https://ww2.mathworks.cn/help/deeplearning/ug/generate-text-using-autoencoders.html)
 
+#12 GAN-I [slide](https://info-ruc.github.io/ai21/dl-gan.pdf) 
+| [matlab](https://www.mathworks.com/help/deeplearning/ug/train-generative-adversarial-network.html)
