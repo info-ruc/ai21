@@ -35,3 +35,6 @@
 
 #12 GAN-I [slide](https://info-ruc.github.io/ai21/dl-gan.pdf) 
 | [matlab](https://www.mathworks.com/help/deeplearning/ug/train-generative-adversarial-network.html)
+
+#13 GAN-II [slide](https://info-ruc.github.io/ai21/dl-gan2.pdf) 
+| [matlab](https://www.mathworks.com/help/deeplearning/ug/trainwasserstein-gan-with-gradient-penalty-wgan-gp.html)
