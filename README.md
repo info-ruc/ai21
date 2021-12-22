@@ -38,3 +38,6 @@
 
 #13 GAN-II [slide](https://info-ruc.github.io/ai21/dl-gan2.pdf) 
 | [matlab](https://www.mathworks.com/help/deeplearning/ug/trainwasserstein-gan-with-gradient-penalty-wgan-gp.html)
+
+#14 Transformer [slide](https://info-ruc.github.io/ai21/transformer.pdf) 
+| [matlab](https://github.com/matlab-deep-learning/transformer-models)
